@@ -17,8 +17,3 @@
 <ul> <h3>Future Development</h3>
   <li>I would like to add more games and convert into a mobile app with react native</li>
 </ul>
-
-<h3>Contributions</h3>
-<p>Laura Salcido, Lance Lee, Michael </p>
-
-![DEMO]()
